@@ -15,11 +15,11 @@ Bottom menu page transports are advanced buttons with custom icons.  Blue bar fe
   make sure the max value is set to 255 and analog joins are added.  These should have visibility joins added.
   
 ToDo:
-  add the codec page
-  mess with the hamburger (possibly a slide out menu for settings)
-  work out how shutdown should operate
-  include a color picker for all similar to google fonts website
-  include another small sub-header subpage with current source selected/control while not on sources page
+  add the codec page,
+  mess with the hamburger (possibly a slide out menu for settings),
+  work out how shutdown should operate,
+  include a color picker for all similar to google fonts website,
+  include another small sub-header subpage with current source selected/control while not on sources page.
   
   
 This is provided as-is and may not get any more updates from me for the vtp.  I plan on including images of what I do add, however.
