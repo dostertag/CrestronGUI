@@ -1,0 +1,30 @@
+{
+  "_serializationVersion": 1,
+  "_serializedObject": "{
+  \"$id\": \"1\",
+  \"_name\": \"Nord-Like\",
+  \"_id\": \"C5D1321CA8B6C4F3\",
+  \"_metadata\": {
+    \"$id\": \"2\",
+    \"_internalImages\": [],
+    \"_metadataVersion\": 2,
+    \"_metadataCompatibleVersion\": 0,
+    \"_category\": \"\",
+    \"_creationDateTime\": \"2011-01-27T09:54:05.713-06:00\",
+    \"_lastOpenedDateTime\": \"2018-07-26T07:42:16.6339952-05:00\",
+    \"_lastSavedDateTime\": \"2018-07-24T17:20:05.0623498-05:00\",
+    \"_lastSavedByApp\": \"Crestron Studio\",
+    \"_lastSavedByAppVersion\": \"1.75.405.0\",
+    \"_wasClosedCleanly\": true,
+    \"_lastKnownState\": 0,
+    \"_inUseByProcessId\": 0,
+    \"_sharedFolderPathKey\": \"\"
+  },
+  \"_projectHandleVersion\": 0,
+  \"_projectHandleCompatibleVersion\": 0
+}",
+  "_options": {
+    "_isStringFormatted": true,
+    "_flags": 0
+  }
+}
